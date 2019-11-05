@@ -24,6 +24,8 @@
 
 [安装教程](https://github.com/Lubibest/How-to-install-a-Hackintosh)
 
+[镜像下载-【黑果小兵】macOS Catalina 10.15 19A583 正式版 with Clover 5096原版镜像[双EFI双平台版]](https://blog.daliansky.net/macOS-Catalina-10.15-19A583-Release-version-with-Clover-5093-original-image-Double-EFI-Version.html)
+
 ### 三、最新更新将会先在QQ群中测试，想及时更新最新系统的请加QQ群（文章末尾）
 
 ### 四、本教程EFI
